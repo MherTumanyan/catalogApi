@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "5365616",
+    "database": "solicy",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "test_username",
+    "password": "test_password",
+    "database": "test_database",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "production_username",
+    "password": "production_password",
+    "database": "production_database",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
